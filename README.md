@@ -21,8 +21,3 @@ python
 #Copy code
 video_file_path = r"C:\path\to\your\video.mp4"
 Define Parking Slot Coordinates:
-
-Modify the parking_coordinates list to match the coordinates and dimensions of your parking slots.
-Run the Script:
-#Copy code
-python parking_spot_counter.py
